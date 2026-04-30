@@ -1,0 +1,18 @@
+:root {
+  color-scheme: dark;
+}
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  background: #061206;
+  color: #d8e8b0;
+}
+
+a {
+  color: inherit;
+}
